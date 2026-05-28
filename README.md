@@ -1,6 +1,6 @@
 # AskEFDA
 
-![preview](askefda.gif)
+![preview](askefda1.gif)
 
 AI-powered RAG assistant for querying Ethiopian Food and Drug Authority (EFDA) medical guidelines using natural language.
 
